@@ -1,16 +1,23 @@
-- title: "About"
-  href: "/about/"
-
-- title: "Blog"
-  href: "/blog/"
-
 - title: "CV"
   href: "/cv/"
 
-- title: "Miscellany"
+- title: "Research"
   href: "/miscellany/"
   subcategories:
-    - subtitle: "Item 1"
+    - subtitle: "Bayesian Estimation of Biofilm Mechanics"
+      subhref: "/miscellany/item-0/"
+    - subtitle: "Generation of droplets in flow focusing microchannels with viscoelastic fluids"
       subhref: "/miscellany/item-1/"
-    - subtitle: "Item 2"
+    - subtitle: "Deposition of cell-loaded droplets in droplet-based bio-printing systems"
       subhref: "/miscellany/item-2/"
+    - subtitle: "Microencapsulation of cells in flow-focusing microchannels"
+      subhref: "/miscellany/item-3/"
+    - subtitle: "Migration of encapsulated leukemia cells in constricted microcapillary"
+      subhref: "/miscellany/item-4/"
+
+- title: "Teaching"
+  href: "/teaching/"
+  
+- title: "Publication"
+  href: "/publication/"
+
