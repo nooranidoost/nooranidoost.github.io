@@ -11,7 +11,7 @@ permalink: /miscellany/item-3/
 I modeled encapsulation of cells in a flow-focusing microchannel to investigate the effects of various fluid and flow properties on droplet size, frequency 
 of droplet generation, and cell population per droplet. Four different modes were identified based on cell population per droplet:
 1) mostly empty droplets with no cells; 2) at most one cell per droplet (single cell encapsulation); 3) at least one cell per droplet; and 4) no break-up to 
-form cell-encapsulated droplets (Fig. \ref{fig:4a}). Phase diagrams of successful/unsuccessful encapsulation for different flow conditions showed that
+form cell-encapsulated droplets. Phase diagrams of successful/unsuccessful encapsulation for different flow conditions showed that
 physical conditions affects these encapsulation modes, with the single cell encapsulation interestingly occurring when velocities of dispersed and continuous 
 fluids were in the same order of magnitude. Different patterns of droplet formation were also found for a combined non-dimensional 
 parameter with specific trends in droplet volume and frequency of droplet generation.
