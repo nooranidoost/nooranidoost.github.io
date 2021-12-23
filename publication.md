@@ -13,13 +13,12 @@ permalink: /publication/
 
  
 <div class="ephox-summary-card">
-  <a class="ephox-summary-card-url-thumbnail" href="http://www.imdb.com/title/tt0117500/">
-    <img class="ephox-summary-card-thumbnail" src="https://images-na.ssl-images-amazon.com/images/M/MV5BZDJjOTE0N2EtMmRlZS00NzU0LWE0ZWQtM2Q3MWMxNjcwZjBhXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UY1200_CR90,0,630,1200_AL_.jpg">
+  <a class="ephox-summary-card-url-thumbnail" href="https://www.mdpi.com/2072-666X/12/4/355">
+    <img class="https://github.com/nooranidoost/nooranidoost.github.io/blob/master/images/mnooranidoost.jpg">
   </a>
-  <a class="ephox-summary-card-link" href="http://www.imdb.com/title/tt0117500/">
+  <a class="ephox-summary-card-link" href="https://www.mdpi.com/2072-666X/12/4/355">
     <span class="ephox-summary-card-title">The Rock (1996)</span><br><br>
-    <span class="ephox-summary-card-description">Directed by Michael Bay.  With Sean Connery, Nicolas Cage, Ed Harris, John Spencer. A mild-mannered chemist and an ex-con must lead the counterstrike when a rogue group of military men, led by a renegade general, threaten a nerve gas attack from Alcatraz against San Francisco.</span><br><br>
-    <span class="ephox-summary-card-website">IMDb</span>
+    <span class="ephox-summary-card-description">M. Nooranidoost</b> and R. Kumar. <i>Micromachines</i> 12.4 (2021): 355.</span><br><br>
   </a>
 </div> 
  
