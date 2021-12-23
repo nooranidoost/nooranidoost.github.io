@@ -54,7 +54,7 @@ permalink: /publication/
 
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 170px; padding-bottom: 0;"><a href="https://scholar.google.com/citations?user=PWU2CdgAAAAJ&hl=en" data-iframely-url="//cdn.iframe.ly/JP0VH4k"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eGUEAvNpz48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1000" height="140" src="https://aip.scitation.org/doi/full/10.1063/1.4971841" title="Droplet formation in a flow focusing configuration: Effects of viscoelasticity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 1
 
 </ol>
