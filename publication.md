@@ -36,7 +36,7 @@ permalink: /publication/
   "title": "Cell encapsulation modes in a flow-focusing microchannel: effects of shell fluid viscosity",
   "provider_name": "SpringerLink",
   "description": "Microfluidics and Nanofluidics - Flow-focusing microencapsulation is an important process to protect the cells in biomedical applications. This article characterizes different cell encapsulation...",
-  "thumbnail_url": "https://media.springernature.com/w200/springer-static/cover/journal/10404.jpg",
+  "thumbnail_url": "https://github.com/nooranidoost/nooranidoost.github.io/blob/master/images/mnooranidoost.jpg",
   "thumbnail_width": 200,
   "thumbnail_height": 262,
   "html": "<div class="iframely-embed"><div class="iframely-responsive" style="height: 170px; padding-bottom: 0;"><a href="https://link.springer.com/article/10.1007/s10404-019-2196-z" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs10404-019-2196-z&key=7b5ba9e5ac57bb62d82067965cde97cf"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>",
