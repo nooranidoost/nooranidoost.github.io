@@ -28,6 +28,28 @@ permalink: /publication/
 <li><b>M. Nooranidoost</b>, N. G. Cogan, and M. Y. Hussaini. "Bayesian estimation of Pseudomonas aeruginosa viscoelastic properties." to be submitted to Physical Review E </li> 
 </p></p>
   
+
+
+
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.nature.com/articles/s41598-020-67739-3?error=cookies_not_supported&code=3f6d8c05-1ece-4b94-9f63-8fce57ecb4f1" data-iframely-url="//cdn.iframe.ly/lxiHTUc"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+
+
+
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://aip.scitation.org/doi/10.1063/1.4971841" data-iframely-url="//cdn.iframe.ly/iN9DYTU"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+
+
+
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 170px; padding-bottom: 0;"><a href="https://link.springer.com/article/10.1007/s10404-019-2196-z" data-iframely-url="//cdn.iframe.ly/6E5Iqnp"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+
+
+
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.mdpi.com/1996-1944/12/17/2811" data-iframely-url="//cdn.iframe.ly/kvPPmoL"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+
+
+
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.mdpi.com/2072-666X/12/4/355" data-iframely-url="//cdn.iframe.ly/isGTFl1"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+
+
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 170px; padding-bottom: 0;"><a href="https://scholar.google.com/citations?user=PWU2CdgAAAAJ&hl=en" data-iframely-url="//cdn.iframe.ly/JP0VH4k"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
  
  
