@@ -38,7 +38,9 @@ permalink: /publication/
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://aip.scitation.org/doi/10.1063/1.4971841" data-iframely-url="//cdn.iframe.ly/iN9DYTU"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://aip.scitation.org/doi/10.1063/1.5108824" data-iframely-url="//aip.scitation.org/doi/full/10.1063/1.5108824"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://aip.scitation.org/doi/10.1063/1.5108824" data-iframely-url="//cdn.iframe.ly/K35ypDm"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+
+
 
 
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 170px; padding-bottom: 0;"><a href="https://link.springer.com/article/10.1007/s10404-019-2196-z" data-iframely-url="//cdn.iframe.ly/6E5Iqnp"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
@@ -54,7 +56,6 @@ permalink: /publication/
 
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 170px; padding-bottom: 0;"><a href="https://scholar.google.com/citations?user=PWU2CdgAAAAJ&hl=en" data-iframely-url="//cdn.iframe.ly/JP0VH4k"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
  
-<iframe width="1000" height="140" src="https://aip.scitation.org/doi/full/10.1063/1.4971841" title="Droplet formation in a flow focusing configuration: Effects of viscoelasticity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-1
+
 
 </ol>
