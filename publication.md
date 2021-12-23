@@ -57,8 +57,18 @@ permalink: /publication/
  
 
 
-<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 129.4118%;"><iframe src="https://docs.google.com/viewer?embedded=true&url=http%3A%2F%2Fhome.ku.edu.tr%2F%257Emmuradoglu%2FNooranidoostEtAlPoF2019.pdf" style="top: 0; left: 0; width: 500%; height: 50%; position: absolute; border: 0;" allowfullscreen></iframe></div>
-
+{
+    "provider_url": "https://www.mdpi.com", 
+    "description": "Migration of an encapsulated leukemia HL60 cell through sudden contractions in a capillary tube is investigated. An HL60 cell is initially encapsulated in a viscoelastic shell fluid. As the cell-laden droplet moves through the sudden contraction, shear stresses are experienced around the cell.", 
+    "title": "Deformation of an Encapsulated Leukemia HL60 Cell through Sudden Contractions of a Microfluidic Channel", 
+    "url": "https://www.mdpi.com/2072-666X/12/4/355", 
+    "thumbnail_width": 550, 
+    "thumbnail_url": "https://www.mdpi.com/micromachines/micromachines-12-00355/article_deploy/html/images/micromachines-12-00355-g001-550.jpg", 
+    "version": "1.0", 
+    "provider_name": "MDPI", 
+    "type": "link", 
+    "thumbnail_height": 214
+}
  
 1
 
