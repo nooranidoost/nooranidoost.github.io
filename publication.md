@@ -5,7 +5,7 @@ permalink: /publication/
 ---
 
 <ol>
-<li><b>M. Nooranidoost</b> and R. Kumar. <i>Micromachines<\i> 12.4 (2021): 355.</li>
+<li><b>M. Nooranidoost</b> and R. Kumar. <i>Micromachines</i> 12.4 (2021): 355.</li>
 <p></p>
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.mdpi.com/2072-666X/12/4/355" data-iframely-url="//cdn.iframe.ly/isGTFl1"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 <br> 
