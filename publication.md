@@ -28,7 +28,7 @@ permalink: /publication/
 <li><b>M. Nooranidoost</b>, N. G. Cogan, and M. Y. Hussaini. "Bayesian estimation of Pseudomonas aeruginosa viscoelastic properties." to be submitted to Physical Review E </li> 
 </p></p>
   
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 170px; padding-bottom: 0;"><a href="https://scholar.google.com/citations?user=PWU2CdgAAAAJ&hl=en" data-iframely-url="//cdn.iframe.ly/JP0VH4k"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 100px; padding-bottom: 0;"><a href="https://scholar.google.com/citations?user=PWU2CdgAAAAJ&hl=en" data-iframely-url="//cdn.iframe.ly/JP0VH4k"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
  
  
 </ol>
