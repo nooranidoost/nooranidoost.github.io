@@ -54,6 +54,12 @@ permalink: /publication/
 
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 170px; padding-bottom: 0;"><a href="https://scholar.google.com/citations?user=PWU2CdgAAAAJ&hl=en" data-iframely-url="//cdn.iframe.ly/JP0VH4k"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
  
+ 
+
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 129.4118%;"><iframe src="https://docs.google.com/viewer?embedded=true&url=http%3A%2F%2Fhome.ku.edu.tr%2F%257Emmuradoglu%2FNooranidoostEtAlPoF2019.pdf" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
+
+ 
 1
 
 </ol>
