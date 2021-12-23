@@ -7,10 +7,16 @@ permalink: /publication/
 <ol>
 <li><b>M. Nooranidoost</b> and R. Kumar. <i>Micromachines</i> 12.4 (2021): 355.</li>
 <p></p>
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.mdpi.com/2072-666X/12/4/355" data-iframely-url="//cdn.iframe.ly/isGTFl1"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8" poster="https://github.com/nooranidoost/nooranidoost.github.io/blob/master/images/mnooranidoost.jpg"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.mdpi.com/2072-666X/12/4/355" data-iframely-url="//cdn.iframe.ly/isGTFl1"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 <br> 
 <br> 
 
+ <li><b>M. Nooranidoost</b> and R. Kumar. <i>Micromachines</i> 12.4 (2021): 355.</li>
+<p></p>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.mdpi.com/2072-666X/12/4/355" data-iframely-url="https://github.com/nooranidoost/nooranidoost.github.io/blob/master/images/mnooranidoost.jpg"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8" poster="https://github.com/nooranidoost/nooranidoost.github.io/blob/master/images/mnooranidoost.jpg"></script>
+<br> 
+<br> 
+ 
 <li><b>M. Nooranidoost</b> and R. Kumar. <i>Scientific Reports</i> 10.1 (2020): 1-11.</li>
 <p></p>
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.nature.com/articles/s41598-020-67739-3?error=cookies_not_supported&code=3f6d8c05-1ece-4b94-9f63-8fce57ecb4f1" data-iframely-url="//cdn.iframe.ly/lxiHTUc"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
