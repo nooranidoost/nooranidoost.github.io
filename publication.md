@@ -38,7 +38,8 @@ permalink: /publication/
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://aip.scitation.org/doi/10.1063/1.4971841" data-iframely-url="//cdn.iframe.ly/iN9DYTU"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://aip.scitation.org/doi/10.1063/1.5108824" data-iframely-url="//cdn.iframe.ly/K35ypDm"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://aip.scitation.org/doi/10.1063/1.5108824" data-iframely-url="//cdn.iframe.ly/K35ypDm?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 
 
