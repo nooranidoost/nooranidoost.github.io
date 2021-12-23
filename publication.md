@@ -57,7 +57,7 @@ permalink: /publication/
  
 
 
-<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 129.4118%;"><iframe src="https://docs.google.com/viewer?embedded=true&url=http%3A%2F%2Fhome.ku.edu.tr%2F%257Emmuradoglu%2FNooranidoostEtAlPoF2019.pdf" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 129.4118%;"><iframe src="https://docs.google.com/viewer?embedded=true&url=http%3A%2F%2Fhome.ku.edu.tr%2F%257Emmuradoglu%2FNooranidoostEtAlPoF2019.pdf" style="top: 0; left: 0; width: 500%; height: 50%; position: absolute; border: 0;" allowfullscreen></iframe></div>
 
  
 1
