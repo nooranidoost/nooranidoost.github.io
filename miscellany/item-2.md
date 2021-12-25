@@ -18,9 +18,10 @@ Simulations with different viscoelastic bio-inks showed that during the depositi
  <img src="/images/fig3.jpg" alt="bioprinting" class="centerImage" width="99%">
   <figcaption> (a) Evolution of a cell-loaded droplet impingement on a flatsurface. The  left  and  right  halves show  the  Newtonian  (Wi<sub>d</sub>= 0)  and the  viscoelastic  (Wi<sub>d</sub>= 10, Wi<sub>d</sub>=0.9) encapsulating  droplets, respectively. (b) The calculated cell viability (η) for bio-inks with different polymeric viscosity ratios (β<sub>d</sub>) and Weissenberg numbers (Wi<sub>d</sub>)</figcaption>
 </figure> 
-<br>
+
  
 Droplet-based bio-printing systems is a state-of-art technology in creating artificial organs and this work can guide researchers in biomedical clinics to design the proper bio-ink for these systems in order to improve the cell survival during printing process. This work was supporzted by the Scientific and Technical Research Council of Turkey (TUBITAK), Grant No. 112M181, and the COST Action Grant No. MP1106. </div> 
+<br>
 
 <li><b>M. Nooranidoost</b>, D. Izbassarov, and M. Muradoglu.  <a href="https://https://aip.scitation.org/doi/abs/10.1063/1.5108824">A computational study of droplet-based bioprinting: Effects of viscoelasticity</a> <i>Physics of Fluids</i> 31.8 (2019): 081901.</li>
 
