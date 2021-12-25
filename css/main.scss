@@ -35,7 +35,12 @@ $content-width:    950px;
 $on-palm:          600px;
 $on-laptop:        950px;
 
-
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 
 // Using media queries with like this:
 // @include media-query($on-palm) {
@@ -61,3 +66,11 @@ $on-laptop:        950px;
         "syntax-highlighting",
 	"fancy-image"
 ;
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
