@@ -15,19 +15,19 @@ permalink: /publication/
  
 <li><b>M. Nooranidoost</b> and R. Kumar. <i>Scientific Reports</i> 10.1 (2020): 1-11.</li>
 <p></p>
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.nature.com/articles/s41598-020-67739-3?error=cookies_not_supported&code=3f6d8c05-1ece-4b94-9f63-8fce57ecb4f1" data-iframely-url="//cdn.iframe.ly/lxiHTUc"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.nature.com/articles/s41598-020-67739-3?error=cookies_not_supported&code=ec74ed19-9d2f-4ab8-8962-b4bd695b5f5a" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41598-020-67739-3&key=7b5ba9e5ac57bb62d82067965cde97cf"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 <br>
 <br> 
 
 <li><b>M. Nooranidoost</b> and R. Kumar. <i>Materials</i> 12.17 (2019): 2811.</li>
 <p></p>
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.mdpi.com/1996-1944/12/17/2811" data-iframely-url="//cdn.iframe.ly/kvPPmoL"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.mdpi.com/1996-1944/12/17/2811" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Fwww.mdpi.com%2F1996-1944%2F12%2F17%2F2811&key=7b5ba9e5ac57bb62d82067965cde97cf"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 <br>
 <br> 
  
 <li><b>M. Nooranidoost</b>, M. Haghshenas, M. Muradoglu, and R. Kumar. <i>Microfluidics and Nanofluidics</i> 23.3 (2019): 31.</li>
 <p></p>
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 170px; padding-bottom: 0;"><a href="https://link.springer.com/article/10.1007/s10404-019-2196-z" data-iframely-url="//cdn.iframe.ly/6E5Iqnp"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 170px; padding-bottom: 0;"><a href="https://link.springer.com/article/10.1007/s10404-019-2196-z" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs10404-019-2196-z&key=7b5ba9e5ac57bb62d82067965cde97cf"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 <br>
 <br> 
  
