@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Deposition of cell-loaded droplets in droplet-based bio-printing systems
+title: Deposition of cell-loaded droplets in bio-printing systems
 permalink: /miscellany/item-2/
 ---
 
