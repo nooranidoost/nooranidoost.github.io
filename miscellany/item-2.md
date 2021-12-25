@@ -17,5 +17,6 @@ Simulations with different viscoelastic bio-inks showed that during the depositi
  <img src="/images/fig3.jpg" alt="Snow" style="width:80%" class="center">
 
 
+
 Droplet-based bio-printing systems is a state-of-art technology in creating artificial organs and this work can guide researchers in biomedical clinics to design the proper bio-ink for these systems in order to improve the cell survival during printing process. This work was supported by the Scientific and Technical Research Council of Turkey (TUBITAK), Grant No. 112M181, and the COST Action Grant No. MP1106.
 
