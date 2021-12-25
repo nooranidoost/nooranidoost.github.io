@@ -15,7 +15,6 @@ Simulations with different viscoelastic bio-inks showed that during the depositi
 
  <figure>
   <img src="/images/fig3a.jpg" alt="Trulli" style="width:50%">
-  <img src="/images/fig3b.jpg" alt="Trulli" style="width:50%">
   <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
 </figure> 
 
