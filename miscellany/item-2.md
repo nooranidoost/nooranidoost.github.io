@@ -17,7 +17,7 @@ Simulations with different viscoelastic bio-inks showed that during the depositi
 (a) Evolution of a cell-loaded droplet impingement on a flatsurface. The  left  and  right  halves show  the  Newtonian  (Wi_d= 0)  and the  viscoelastic  (Wi_d=   10, β_d=0.9) encapsulating  droplets, respectively. (b) The calculated cell viability (η) for bio-inks with different polymeric viscosity ratios (βd) and Weissenberg numbers (Wid)
 
  <figure>
- <img src="/images/fig3.jpg" alt="Snow" class="centerImage" height="120" width="500">
+ <img src="/images/fig3.jpg" alt="Snow" class="centerImage" width="80%">
   <figcaption> (a) Evolution of a cell-loaded droplet impingement on a flatsurface. The  left  and  right  halves show  the  Newtonian  (Wi_d= 0)  and the  viscoelastic  (Wi_d=   10, β_d=0.9) encapsulating  droplets, respectively. (b) The calculated cell viability (η) for bio-inks with different polymeric viscosity ratios (βd) and Weissenberg numbers (Wid)</figcaption>
 </figure> 
 
