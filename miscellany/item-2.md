@@ -13,7 +13,7 @@ Despite significant progress, cell viability continues to be a central issue in 
 
 Simulations with different viscoelastic bio-inks showed that during the deposition, the polymers inside the bio-ink extends rapidly and creates a thin viscoelastic boundary layer near the surface and the encapsulating droplet spread on the solid surface. Then a cell viability model was used to compute the cell viability as a function of maximum instantaneous cell deformation. I demonstrated that adding viscoelasticity to the encapsulating droplet fluid can significantly enhance the cell viability, suggesting that viscoelastic properties of bioinks can be tailored to achieve high cell viability in droplet-based bioprinting systems. High cell viability was found to be achieved for bio-inks with high polymeric viscosity ratios and Weissenberg numbers. Above a critical Weissenberg number, cell viability remained constant and further increasing of viscoelasticity did not improve cell viability. The effects of the cell viscoelasticity are also examined, and it is shown that the Newtonian cell models may significantly overpredict the cell viability.
 
-<img src='/fig3b.eps'><h1>Theatre for Performing Arts</h1> 
+<img src='/fig3b.html'><h1>Theatre for Performing Arts</h1> 
 
 Droplet-based bio-printing systems is a state-of-art technology in creating artificial organs and this work can guide researchers in biomedical clinics to design the proper bio-ink for these systems in order to improve the cell survival during printing process. This work was supported by the Scientific and Technical Research Council of Turkey (TUBITAK), Grant No. 112M181, and the COST Action Grant No. MP1106.
 
