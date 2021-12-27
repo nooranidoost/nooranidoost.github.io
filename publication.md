@@ -4,8 +4,20 @@ title: Journal Articles
 permalink: /publication/
 ---
 
+<a target="_blank" href="{{Link}}">
+<div class="image-container"><div class="image" style="background-image: url({{Image}})"></div></div>
+<div class="primary">
+<h1 class="title">{{Name}}</h1>
+</div>
+<div class="secondary">
+<h2>{{Name}}</h2>
+</div>
+</a>
+
+
+
+
 <ol>         
- 
  
 <li><b>M. Nooranidoost</b> and R. Kumar. <i>Micromachines</i> 12.4 (2021): 355.</li>
 <p></p>
