@@ -4,23 +4,73 @@ title: Journal Articles
 permalink: /publication/
 ---
 
-<div class="col-xs-12">
-<div class="calcite-web">
-<div class="card-base card-wide">
-  <div class="card-wide-image-wrap">
-    <img alt="Bridge Club, 1954" class="card-wide-image" src="http://esri.github.io/calcite-web/assets/img/docs/bridge3.jpg">
-    <div class="card-image-caption">
-      Florida, January 1954
-    </div>
-  </div>
-  <div class="card-content">
-    <h4><a href="#">Wide Cards</a></h4>
-    <p>Wide cards are just like standard cards except that they are displayed in landscape orientation. This is useful in situations where there is too much content to display well in a standard card.</p>
-    <p>Generally wide cards are meant to be displayed one-up, not grouped.</p><span class="glyphicon glyphicon-star"></span> <span class="glyphicon glyphicon-star"></span> <span class="glyphicon glyphicon-star"></span> <span class="glyphicon glyphicon-star-empty"></span> <span class="glyphicon glyphicon-star-empty"></span>
-  </div>
-</div>
-</div>
-</div>
+<ul class="cards">
+  <li>
+    <a href="" class="card">
+      <img src="https://i.imgur.com/oYiTqum.jpg" class="card__image" alt="" />
+      <div class="card__overlay">
+        <div class="card__header">
+          <svg class="card__arc" xmlns="http://www.w3.org/2000/svg"><path /></svg>                     
+          <img class="card__thumb" src="https://i.imgur.com/7D7I6dI.png" alt="" />
+          <div class="card__header-text">
+            <h3 class="card__title">Jessica Parker</h3>            
+            <span class="card__status">1 hour ago</span>
+          </div>
+        </div>
+        <p class="card__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
+      </div>
+    </a>      
+  </li>
+  <li>
+    <a href="" class="card">
+      <img src="https://i.imgur.com/2DhmtJ4.jpg" class="card__image" alt="" />
+      <div class="card__overlay">        
+        <div class="card__header">
+          <svg class="card__arc" xmlns="http://www.w3.org/2000/svg"><path /></svg>                 
+          <img class="card__thumb" src="https://i.imgur.com/sjLMNDM.png" alt="" />
+          <div class="card__header-text">
+            <h3 class="card__title">kim Cattrall</h3>
+            <span class="card__status">3 hours ago</span>
+          </div>
+        </div>
+        <p class="card__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
+      </div>
+    </a>
+  </li>
+  <li>
+    <a href="" class="card">
+      <img src="https://i.imgur.com/oYiTqum.jpg" class="card__image" alt="" />
+      <div class="card__overlay">
+        <div class="card__header">
+          <svg class="card__arc" xmlns="http://www.w3.org/2000/svg"><path /></svg>                     
+          <img class="card__thumb" src="https://i.imgur.com/7D7I6dI.png" alt="" />
+          <div class="card__header-text">
+            <h3 class="card__title">Jessica Parker</h3>
+            <span class="card__tagline">Lorem ipsum dolor sit amet consectetur</span>            
+            <span class="card__status">1 hour ago</span>
+          </div>
+        </div>
+        <p class="card__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
+      </div>
+    </a>
+  </li>
+  <li>
+    <a href="" class="card">
+      <img src="https://i.imgur.com/2DhmtJ4.jpg" class="card__image" alt="" />
+      <div class="card__overlay">
+        <div class="card__header">
+          <svg class="card__arc" xmlns="http://www.w3.org/2000/svg"><path /></svg>                 
+          <img class="card__thumb" src="https://i.imgur.com/sjLMNDM.png" alt="" />
+          <div class="card__header-text">
+            <h3 class="card__title">kim Cattrall</h3>
+            <span class="card__status">3 hours ago</span>
+          </div>          
+        </div>
+        <p class="card__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
+      </div>
+    </a>
+  </li>    
+</ul>
 
 
 <ol>         
