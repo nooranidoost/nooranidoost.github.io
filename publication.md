@@ -4,19 +4,6 @@ title: Journal Articles
 permalink: /publication/
 ---
 
-<a target="_blank" href="https://www.mdpi.com/2072-666X/12/4/355">
-<div class="image-container"><div class="image" style="background-image: /images/mnooranidoost.jpg"></div></div>
-<div class="primary">
-<h1 class="title">Name2</h1>
-</div>
-<div class="secondary">
-<h2>Name3</h2>
-</div>
-</a>
-
-
-
-
 <ol>         
  
 <li><b>M. Nooranidoost</b> and R. Kumar. <i>Micromachines</i> 12.4 (2021): 355.</li>
