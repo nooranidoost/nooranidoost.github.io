@@ -4,13 +4,13 @@ title: Journal Articles
 permalink: /publication/
 ---
 
-<a target="_blank" href="{{Link}}">
-<div class="image-container"><div class="image" style="background-image: url({{Image}})"></div></div>
+<a target="_blank" href="https://www.mdpi.com/2072-666X/12/4/355">
+<div class="image-container"><div class="image" style="background-image: /images/mnooranidoost.jpg"></div></div>
 <div class="primary">
-<h1 class="title">{{Name}}</h1>
+<h1 class="title">Name2</h1>
 </div>
 <div class="secondary">
-<h2>{{Name}}</h2>
+<h2>Name3</h2>
 </div>
 </a>
 
