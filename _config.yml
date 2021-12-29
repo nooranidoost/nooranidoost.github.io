@@ -6,8 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://nooranidoost.com" # the base hostname & protocol for your site
-twitter_username: nooranidoost
-github_username:  nooranidoost
+research_gate_id: Mohammad-Nooranidoost
 orcid_id: 0000-0002-6326-9213
 google_scholar_id: PWU2CdgAAAAJ&hl=en
 
