@@ -1,46 +1,30 @@
 # Site settings
-
-title: M. Nooranidoost
-email: mnooranidoost@fsu.edu
-
+title: Steven V. Miller
+email: svmille@clemson.edu
 description: > # this means to ignore newlines until "baseurl:"
-Florida State University
-Department of Mathematics
+MN
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-<!-- scholar_username: citations?user=PWU2CdgAAAAJ&hl=en --> 
-<!-- github_username:  mnooranidoost --> 
-
-github_username: https://github.com/mnooranidoost
-gitlab_username: # your GitLab user name
-twitter_username: https://scholar.google.com/citations?user=PWU2CdgAAAAJ&hl=en
-linkedin_username: # your LinkedIn user name
-scholar_userid: PWU2CdgAAAAJ&hl=en
-orcid_id: # your ORCID ID
-medium_username: # your Medium username
-quora_username: # your Quora username
-publons_id: # your ID on Publons
-research_gate_profile: # your profile on ResearchGate
-blogger_url: # your blogger URL
-work_url: # work page URL
-keybase_username: # your keybase user name
-wikidata_id: # your wikidata id
-dblp_url: # your DBLP profile url
-stackoverflow_id: #your stackoverflow id
-
-
-
+url: "http://nooranidoost.com" # the base hostname & protocol for your site
+twitter_username: nooranidoost
+github_username:  nooranidoost
+orcid_id: 0000-0002-6326-9213
+google_scholar_id: PWU2CdgAAAAJ&hl=en
 
 # Build settings
 markdown: kramdown
 
 # Other options
-permalink: blog/:year/:month/:title
-job.title: "Postdoctoral Scholar"
+permalink: blog/:year/:month/:title/
+jobtitle: "Postdoctoral Researcher"
 excerpt_separator: "<!--more-->"
 
 # SEO stuff
-# google_author: ""
-# google_site_verification: ""
-# bing_webmastertools_id: ""
+google_author: ""
+google_site_verification: ""
+bing_webmastertools_id: ""
+
+plugins_dir:
+  - jekyll-sitemap
+
+exclude: ['*.Rmd']
