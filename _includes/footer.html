@@ -44,11 +44,19 @@
           {% if site.research_gate_id %}
   <li>
     <a href="https://www.researchgate.net/profile/{{ site.research_gate_id }}">
-      <i class="ai ai-researchgate" style="color:gray"></i> ORCID
+      <i class="ai ai-researchgate" style="color:gray"></i> Research Gate
     </a>
   </li>
 {% endif %}
       
+	                 {% if site.publons_id %}
+  <li>
+    <a href="https://publons.com/researcher/{{ site.publons_id }}">
+      <i class="ai ai-publons" style="color:gray"></i> Publons
+    </a>
+  </li>
+{% endif %}
+	       
         </ul>
       </div>
     </div>
