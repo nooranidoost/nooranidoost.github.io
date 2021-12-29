@@ -9,6 +9,7 @@ url: "http://nooranidoost.com" # the base hostname & protocol for your site
 research_gate_id: Mohammad-Nooranidoost
 orcid_id: 0000-0002-6326-9213
 google_scholar_id: PWU2CdgAAAAJ&hl=en
+publons_id: 4524013/mohammad-nooranidoost/
 
 # Build settings
 markdown: kramdown
