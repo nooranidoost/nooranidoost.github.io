@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-You can download my [here](/CV.pdf).
+You can download my CV [here](/CV.pdf).
 
 
 
