@@ -6,11 +6,13 @@ permalink: /publication/
 
 <ol>         
  
-<li><b>M. Nooranidoost</b> and R. Kumar. <i>Micromachines</i> 12.4 (2021): 355.</li>
+<li><b>M. Nooranidoost</b> and R. Kumar.  Deformation of an encapsulated leukemia HL60 cell through sudden contractions of a microfluidic channel.<i>Micromachines</i> 12.4 (2021): 355.</li>
 <p></p>
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.mdpi.com/2072-666X/12/4/355" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Fwww.mdpi.com%2F2072-666X%2F12%2F4%2F355&key=7b5ba9e5ac57bb62d82067965cde97cf"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 <br> 
 <br> 
+ 
+
+
  
 <li><b>M. Nooranidoost</b> and R. Kumar. <i>Scientific Reports</i> 10.1 (2020): 1-11.</li>
 <p></p>
